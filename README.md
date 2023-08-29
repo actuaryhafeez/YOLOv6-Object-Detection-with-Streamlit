@@ -1,5 +1,3 @@
-![ezgif com-video-to-gif](https://github.com/actuaryhafeez/YOLOv6-Object-Detection-with-Streamlit/assets/55107467/166b1dc2-adda-4ba5-a1d4-b68880f56726)# YOLOv6-Object-Detection-with-Streamlit
-
 
 # Description 
 
